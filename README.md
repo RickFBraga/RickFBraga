@@ -8,14 +8,38 @@ Welcome to my GitHub profile! I'm Henrique Braga, a dedicated Front-End Develope
 - 🔥 Passionate about technology and its transformative potential.
 - 🚀 Open to collaboration on exciting projects.
 
-## Skills 🛠️
-![image](https://github.com/RickFBraga/RickFBraga/assets/129456511/0c694d41-d1ae-417e-8c22-1a3e6abad2df)
-![image](https://github.com/RickFBraga/RickFBraga/assets/129456511/cbd41f56-31e1-437c-b48e-1cbb41e1012f)
-![image](https://github.com/RickFBraga/RickFBraga/assets/129456511/15169e8c-d8ed-48fe-a00a-ff8da73f706a)
-![image](https://github.com/RickFBraga/RickFBraga/assets/129456511/ad1b86e5-4c15-44a3-9cca-1ef647468fb3)
-![image](https://github.com/RickFBraga/RickFBraga/assets/129456511/ba6c5b78-99d1-4739-8224-242d6f252c5a)
-![image](https://github.com/RickFBraga/RickFBraga/assets/129456511/4b9f60f2-c609-48fc-a0e7-e30a42587377)
-![image](https://github.com/RickFBraga/RickFBraga/assets/129456511/ee891566-6b0d-4737-9037-a02cba44c6b1)
+
+### Skills 🛠️
+
+#### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Back-End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+#### Ferramentas e DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+#### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Contact
 
