@@ -1,59 +1,218 @@
-# FullStack Developer 👨‍💻
+# 👨‍💻 Henrique Braga
 
-Welcome to my GitHub profile! I'm **Henrique Braga**, a dedicated **FullStack Developer** with a burning passion for technology. Currently, I'm enthusiastically pursuing a degree in **Analysis and Systems Development** at **PUC-MG** (Pontifical Catholic University of Minas Gerais).
+### FullStack Developer • Software Engineering • Problem Solver
 
----
+> Building web applications, APIs and digital products with a focus on clean architecture, scalability and great user experiences.
 
-## About Me ℹ️
-
-- 🌟 **Currently studying:** Analysis and Systems Development at PUC-MG.
-- 🚀 **Constantly learning and improving my skills** in web development.
-- 🔥 **Passionate about technology** and its transformative potential.
-- 🤝 **Open to collaboration** on exciting projects.
-
----
-
-## Skills 🛠️
-
-### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Back-End
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
-
-### Tools and DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <a href="https://github.com/RickFBraga">
+    <img src="https://img.shields.io/github/followers/RickFBraga?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RickFBraga&style=for-the-badge&color=blueviolet" />
+</p>
 
 ---
 
-## Contact 📫
+## 🧑‍💻 About Me
 
-**Get in Touch!**  
-Don't hesitate to drop me an email if you're keen on joining forces or simply want to exchange ideas!  
-📧 **Email:** [rickbprabelo@gmail.com](mailto:rickbprabelo@gmail.com)  
-🌐 **Connect with me on [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)**  
+I'm a **FullStack Developer** passionate about building modern, scalable and well-structured applications.
+
+🎓 Currently studying **Analysis and Systems Development at PUC-MG**.
+
+🚀 Constantly improving my knowledge in **software architecture, backend development, frontend engineering, databases and DevOps**.
+
+💡 I enjoy turning ideas and business problems into functional and intuitive digital solutions.
+
+🤝 Open to collaborating on interesting projects and building things that actually solve problems.
 
 ---
 
-✨ **Let's build something amazing together!** ✨
+## ⚡ Tech Stack
+
+### 🎨 Front-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
+</p>
+
+**Technologies**
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
+* React Native
+* Next.js
+* Vue.js
+* Tailwind CSS
+* Styled Components
+
+---
+
+### ⚙️ Back-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java" />
+</p>
+
+**Technologies**
+
+* Node.js
+* Express.js
+* PHP
+* Java
+* REST APIs
+* MVC Architecture
+* Authentication & Authorization
+* API Integrations
+
+---
+
+### 🗄️ Databases & Cache
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+**Technologies**
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+* Database Modeling
+* SQL
+* Migrations & Seeders
+
+**Database Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+</p>
+
+---
+
+### 🔌 Integrations & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+**Experience with**
+
+* REST APIs
+* Third-party API integrations
+* Webhooks
+* Authentication flows
+* JSON
+* HTTP / HTTPS
+* API consumption and development
+* Backend ↔ Frontend integration
+* External services integration
+
+---
+
+### 🐳 DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel" />
+</p>
+
+**Tools & Platforms**
+
+* Git
+* GitHub
+* Docker
+* Linux
+* Vercel
+* Render
+* CI/CD concepts
+* Environment configuration
+* Application deployment
+
+---
+
+### 🎨 Design & Prototyping
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+* Figma
+* UI/UX fundamentals
+* Responsive Design
+* Design-to-Code
+
+---
+
+## 🚀 Currently Learning
+
+```text
+FullStack Development
+        │
+        ├── Front-End
+        │   ├── React
+        │   ├── Next.js
+        │   ├── TypeScript
+        │   └── Tailwind
+        │
+        ├── Back-End
+        │   ├── PHP
+        │   ├── CodeIgniter
+        │   ├── Node.js
+        │   └── REST APIs
+        │
+        ├── Data
+        │   ├── PostgreSQL
+        │   ├── MySQL
+        │   ├── MongoDB
+        │   └── Redis
+        │
+        └── Infrastructure
+            ├── Docker
+            ├── Linux
+            └── CI/CD
+```
+---
+
+## 🧩 What I Like Building
+
+```text
+🌐 Web Applications
+⚙️ REST APIs
+📱 Mobile Applications
+🗄️ Data-driven Systems
+🔗 API Integrations
+🚀 SaaS Platforms
+📊 Dashboards
+🧠 Automation & Developer Tools
+```
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+
+<a href="mailto:rickbprabelo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/seu-linkedin-aqui">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/RickFBraga">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+### 💻 `Code. Build. Learn. Repeat.`
+
+> *"The best way to predict the future is to create it."*
+
+⭐ If you find something interesting in my repositories, feel free to explore, contribute or get in touch.
